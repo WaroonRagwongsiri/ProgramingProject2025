@@ -1,0 +1,6 @@
+Found test at line 1, position 0.
+Found test at line 1, position 4.
+Found test at line 1, position 11.
+Found test at line 2, position 0.
+Found test at line 2, position 36.
+Found test at line 3, position 0.
